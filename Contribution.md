@@ -29,7 +29,7 @@
    Bio : Student
    GitHub URL : https://github.com/AdarshKashyap14
 
-4) Name : 
-   Place : 
-   Bio : 
-   GitHub URL : 
+4) Name : Ashhar Rahman
+   Place : Kanpur, U.P , India
+   Bio : Student
+   GitHub URL : https://github.com/ashhar-rahman
